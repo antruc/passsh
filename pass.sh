@@ -21,7 +21,7 @@ tr -d '\n'; echo
 ;;
 
 ?)
-echo 'Usage: $(basename $0) [-c] [-d]'
+echo 'Usage: ./pass.sh [-c] [-d]'
 exit 1
 ;;
 
