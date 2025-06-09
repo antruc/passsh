@@ -10,10 +10,10 @@ echo_usage() {
     echo "Usage: pass.sh -p [length] -c [length]
     
 Options:
-    -p [length]    Generate random password.
-    -c [length]    Generate random pin code.
-    -h             Prints usage and exits.
-    -v             Prints version and exits."
+    -p [length]    Generate random password
+    -c [length]    Generate random pin code
+    -h             Prints usage and exits
+    -v             Prints version and exits"
 }
 
 generate_password() {
